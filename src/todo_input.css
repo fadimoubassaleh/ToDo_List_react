@@ -1,0 +1,16 @@
+.inputTask{
+  width: 75%;
+  padding: 8px;
+}
+
+.addInput{
+  margin-left: 2px;
+  outline: none;
+  box-shadow: none;
+  border-width: 2px;
+  border-radius: 3px;
+  border-style: solid;
+  padding: 8px;
+  color: rgba(73, 204, 249, 1.0);
+  font-weight: bold;
+}
